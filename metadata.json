@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Studio – Markdown Editor & Viewer",
+  "description": "Distraction-free offline Markdown editor and viewer for Android with themes, local file support, SAF file picker, search within file, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
