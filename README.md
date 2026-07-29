@@ -141,10 +141,6 @@ Markdown-Studio/
 
 Markdown Studio parses `.md` files into an **abstract syntax tree (AST)** using a custom recursive-descent parser. Each node in the AST represents a Markdown element — heading, paragraph, list item, code block, table, etc. The Compose UI then walks this tree and renders each node as a corresponding Material 3 composable.
 
-<p align="center">
-  <img src="assets/app-icon.svg" alt="Architecture Overview" width="80" />
-</p>
-
 The rendering pipeline is:
 
 1. **Source Input** — Raw Markdown text from SAF file, sample document, or editor.
