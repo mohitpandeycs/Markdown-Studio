@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/app-icon.svg" alt="Markdown Studio" width="84" style="border-radius: 12px;" />
+  <img src="assets/app-icon.svg" alt="Markdown Studio" width="100" style="border-radius: 12px;" />
 </p>
 
 <h1 align="center">Markdown Studio</h1>
