@@ -201,7 +201,6 @@ Built and maintained by **Mohit Pandey**
 
 - GitHub — [@mohitpandeycs](https://github.com/mohitpandeycs)
 - LinkedIn — [in/mohitpandeycs](https://linkedin.com/in/mohitpandeycs)
-- X — [@mohitpandeycs](https://x.com/mohitpandeycs)
 
 ---
 
